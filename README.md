@@ -16,8 +16,8 @@ So i just pushed the whole hexo project for your convenience, all pre settings a
 ##### 1.Init
 
 ```
-git clone https://github.com/Kaijun/hexo-theme-huxblog.git
-cd hexo-theme-huxblog
+git clone https://github.com/gyy924/gyy_hexo_theme.git
+cd gyy_hexo_theme
 npm install
 ```
 
@@ -28,8 +28,8 @@ Especially the section:
 ```
 deploy:
   type: git
-  repo: https://github.com/Kaijun/hexo-theme-huxblog
-  branch: gh-pages
+  repo: git@github.com:gyy924/gyy924.github.io.git
+  branch: master
 ```
 Replace with your own repo!
 
